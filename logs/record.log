@@ -1,0 +1,177 @@
+2025-09-05 17:04:39,195 | INFO | main | Data loaading has been started
+2025-09-05 17:06:09,221 | INFO | main | Data loaading has been started
+2025-09-05 17:06:09,221 | ERROR | load_data | Error loading data: [Errno 13] Permission denied: 'C:\\Classifier_Algorithms\\data\\raw'
+2025-09-05 17:07:58,189 | INFO | main | Data loaading has been started
+2025-09-05 17:07:58,189 | ERROR | load_data | Error loading data: [Errno 13] Permission denied: 'C:\\Classifier_Algorithms\\data\\raw'
+2025-09-05 17:09:30,541 | INFO | main | Data loaading has been started
+2025-09-05 17:09:30,541 | ERROR | load_data | Error loading data: [Errno 13] Permission denied: 'C:\\Classifier_Algorithms\\data\\raw'
+2025-09-05 17:11:57,848 | INFO | main | Data loaading has been started
+2025-09-05 17:11:57,861 | ERROR | load_data | Error loading data: [Errno 2] No such file or directory: 'C:\\Classifier_Algorithms\\data\\raw\\sythetic_cofee_health.csv'
+2025-09-05 17:12:27,417 | INFO | main | Data loaading has been started
+2025-09-05 17:12:27,417 | ERROR | load_data | Error loading data: [Errno 2] No such file or directory: 'C:\\Classifier_Algorithms\\data\\raw\\sythetic_coffee_health.csv'
+2025-09-05 17:12:52,224 | INFO | main | Data loaading has been started
+2025-09-05 17:12:52,224 | INFO | load_data | Data has been loaded and converted to Datframe successfully
+2025-09-05 17:12:52,224 | INFO | main | Data loaded succesfully
+2025-09-05 17:12:52,224 | INFO | main | Data preprocessing has been started
+2025-09-05 17:12:52,334 | INFO | preprocess_data | Data has been proprocessed succesfully
+2025-09-05 17:12:52,334 | INFO | main | Data preprocessing has done successfully
+2025-09-05 17:12:52,334 | INFO | main | Train test split has been started
+2025-09-05 17:12:52,345 | INFO | train_data | Train Test Split has succesfully executed
+2025-09-05 17:12:52,345 | INFO | main | Train test split done succefully
+2025-09-05 17:12:52,345 | INFO | main | Standardization started
+2025-09-05 17:14:29,417 | INFO | main | Data loaading has been started
+2025-09-05 17:14:29,437 | INFO | load_data | Data has been loaded and converted to Datframe successfully
+2025-09-05 17:14:29,437 | INFO | main | Data loaded succesfully
+2025-09-05 17:14:29,437 | INFO | main | Data preprocessing has been started
+2025-09-05 17:14:29,528 | INFO | preprocess_data | Data has been proprocessed succesfully
+2025-09-05 17:14:29,528 | INFO | main | Data preprocessing has done successfully
+2025-09-05 17:14:29,528 | INFO | main | Train test split has been started
+2025-09-05 17:14:29,528 | INFO | train_data | Train Test Split has succesfully executed
+2025-09-05 17:14:29,528 | INFO | main | Train test split done succefully
+2025-09-05 17:14:29,528 | INFO | main | Standardization started
+2025-09-05 17:14:29,544 | INFO | standard_data | Standardization has been succesfully done
+2025-09-05 17:14:29,544 | INFO | main | Standardization has been succesfully done
+2025-09-05 17:14:29,544 | ERROR | train_data | Cross validation failed
+2025-09-05 17:17:56,560 | INFO | main | Data loaading has been started
+2025-09-05 17:17:56,573 | INFO | load_data | Data has been loaded and converted to Datframe successfully
+2025-09-05 17:17:56,573 | INFO | main | Data loaded succesfully
+2025-09-05 17:17:56,573 | INFO | main | Data preprocessing has been started
+2025-09-05 17:17:56,670 | INFO | preprocess_data | Data has been proprocessed succesfully
+2025-09-05 17:17:56,670 | INFO | main | Data preprocessing has done successfully
+2025-09-05 17:17:56,670 | INFO | main | Train test split has been started
+2025-09-05 17:17:56,670 | INFO | train_data | Train Test Split has succesfully executed
+2025-09-05 17:17:56,670 | INFO | main | Train test split done succefully
+2025-09-05 17:17:56,670 | INFO | main | Standardization started
+2025-09-05 17:17:56,686 | INFO | standard_data | Standardization has been succesfully done
+2025-09-05 17:17:56,686 | INFO | main | Standardization has been succesfully done
+2025-09-05 17:17:56,686 | INFO | train_data | model training has bee started
+2025-09-05 17:17:56,809 | INFO | train_data | Logistic_Regression - CV Accuracy: 1.0000 (+/- 0.0000)
+2025-09-05 17:17:56,809 | INFO | train_data | 
+\u2705 Best Model based on CV: Logistic_Regression with Accuracy = 1.0000
+2025-09-05 17:17:56,809 | INFO | main | Best model has beeb selected
+2025-09-05 17:17:56,817 | INFO | main | Hyperparameter tunning started
+2025-09-05 17:17:58,667 | INFO | hyperparameter_tunning | Best Parameters:
+2025-09-05 17:17:58,722 | ERROR | hyperparameter_tunning | Hyperparameter tunning failed{e}
+2025-09-05 17:24:01,714 | INFO | main | Data loaading has been started
+2025-09-05 17:24:01,714 | INFO | load_data | Data has been loaded and converted to Datframe successfully
+2025-09-05 17:24:01,714 | INFO | main | Data loaded succesfully
+2025-09-05 17:24:01,714 | INFO | main | Data preprocessing has been started
+2025-09-05 17:24:01,820 | INFO | preprocess_data | Data has been proprocessed succesfully
+2025-09-05 17:24:01,820 | INFO | main | Data preprocessing has done successfully
+2025-09-05 17:24:01,820 | INFO | main | Train test split has been started
+2025-09-05 17:24:01,824 | INFO | train_data | Train Test Split has succesfully executed
+2025-09-05 17:24:01,824 | INFO | main | Train test split done succefully
+2025-09-05 17:24:01,824 | INFO | main | Standardization started
+2025-09-05 17:24:01,831 | INFO | standard_data | Standardization has been succesfully done
+2025-09-05 17:24:01,833 | INFO | main | Standardization has been succesfully done
+2025-09-05 17:24:01,833 | INFO | train_data | model training has bee started
+2025-09-05 17:24:01,936 | INFO | train_data | Logistic_Regression - CV Accuracy: 1.0000 (+/- 0.0000)
+2025-09-05 17:24:01,936 | INFO | train_data | 
+\u2705 Best Model based on CV: Logistic_Regression with Accuracy = 1.0000
+2025-09-05 17:24:01,940 | INFO | main | Best model has beeb selected
+2025-09-05 17:24:01,940 | INFO | main | Hyperparameter tunning started
+2025-09-05 17:24:03,765 | INFO | hyperparameter_tunning | Best Parameters:
+2025-09-05 17:24:03,815 | INFO | hyperparameter_tunning | Best model has been saved
+2025-09-05 17:24:03,815 | INFO | main | Hyperparameter tunning is done and model saved
+2025-09-05 17:29:53,384 | INFO | main | Data loaading has been started
+2025-09-05 17:29:53,400 | INFO | load_data | Data has been loaded and converted to Datframe successfully
+2025-09-05 17:29:53,400 | INFO | main | Data loaded succesfully
+2025-09-05 17:29:53,400 | INFO | main | Data preprocessing has been started
+2025-09-05 17:29:53,496 | INFO | preprocess_data | Data has been proprocessed succesfully
+2025-09-05 17:29:53,496 | INFO | main | Data preprocessing has done successfully
+2025-09-05 17:29:53,496 | INFO | main | Train test split has been started
+2025-09-05 17:29:53,496 | INFO | train_data | Train Test Split has succesfully executed
+2025-09-05 17:29:53,496 | INFO | main | Train test split done succefully
+2025-09-05 17:29:53,496 | INFO | main | Standardization started
+2025-09-05 17:29:53,496 | INFO | standard_data | Standardization has been succesfully done
+2025-09-05 17:29:53,496 | INFO | main | Standardization has been succesfully done
+2025-09-05 17:29:53,496 | INFO | train_data | model training has bee started
+2025-09-05 17:29:53,615 | INFO | train_data | Logistic_Regression - CV Accuracy: 1.0000 (+/- 0.0000)
+2025-09-05 17:29:53,615 | INFO | train_data | 
+\u2705 Best Model based on CV: Logistic_Regression with Accuracy = 1.0000
+2025-09-05 17:29:53,618 | INFO | main | Best model has beeb selected
+2025-09-05 17:29:53,618 | INFO | main | Hyperparameter tunning started
+2025-09-05 17:29:55,483 | INFO | hyperparameter_tunning | Best Parameters:
+2025-09-05 17:29:55,524 | INFO | hyperparameter_tunning | Best model has been saved
+2025-09-05 17:29:55,524 | INFO | main | Hyperparameter tunning is done and model saved
+2025-09-05 17:32:00,472 | INFO | main | Data loaading has been started
+2025-09-05 17:32:00,486 | INFO | load_data | Data has been loaded and converted to Datframe successfully
+2025-09-05 17:32:00,486 | INFO | main | Data loaded succesfully
+2025-09-05 17:32:00,486 | INFO | main | Data preprocessing has been started
+2025-09-05 17:32:00,573 | INFO | preprocess_data | Data has been proprocessed succesfully
+2025-09-05 17:32:00,573 | INFO | main | Data preprocessing has done successfully
+2025-09-05 17:32:00,573 | INFO | main | Train test split has been started
+2025-09-05 17:32:00,573 | INFO | train_data | Train Test Split has succesfully executed
+2025-09-05 17:32:00,573 | INFO | main | Train test split done succefully
+2025-09-05 17:32:00,573 | INFO | main | Standardization started
+2025-09-05 17:32:00,589 | INFO | standard_data | Standardization has been succesfully done
+2025-09-05 17:32:00,589 | INFO | main | Standardization has been succesfully done
+2025-09-05 17:32:00,589 | INFO | train_data | model training has bee started
+2025-09-05 17:32:00,685 | INFO | train_data | Logistic_Regression - CV Accuracy: 1.0000 (+/- 0.0000)
+2025-09-05 17:32:00,685 | INFO | train_data | 
+\u2705 Best Model based on CV: Logistic_Regression with Accuracy = 1.0000
+2025-09-05 17:32:00,701 | INFO | main | Best model has beeb selected
+2025-09-05 17:32:00,701 | INFO | main | Hyperparameter tunning started
+2025-09-05 17:32:02,565 | INFO | hyperparameter_tunning | Best Parameters:
+2025-09-05 17:32:02,565 | INFO | hyperparameter_tunning | Accuracy: 1.0000
+2025-09-05 17:32:02,581 | INFO | hyperparameter_tunning | F1 Score (macro): 1.0000
+2025-09-05 17:32:02,587 | INFO | hyperparameter_tunning | Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       295
+           1       1.00      1.00      1.00      2139
+           2       1.00      1.00      1.00       566
+
+    accuracy                           1.00      3000
+   macro avg       1.00      1.00      1.00      3000
+weighted avg       1.00      1.00      1.00      3000
+
+2025-09-05 17:32:02,603 | INFO | hyperparameter_tunning | Best model has been saved
+2025-09-05 17:32:02,603 | INFO | main | Hyperparameter tunning is done and model saved
+2025-09-05 17:34:07,950 | INFO | main | Data loaading has been started
+2025-09-05 17:34:07,962 | INFO | load_data | Data has been loaded and converted to Datframe successfully
+2025-09-05 17:34:07,962 | INFO | main | Data loaded succesfully
+2025-09-05 17:34:07,962 | INFO | main | Data preprocessing has been started
+2025-09-05 17:34:08,060 | INFO | preprocess_data | Data has been proprocessed succesfully
+2025-09-05 17:34:08,060 | INFO | main | Data preprocessing has done successfully
+2025-09-05 17:34:08,060 | INFO | main | Train test split has been started
+2025-09-05 17:34:08,064 | INFO | train_data | Train Test Split has succesfully executed
+2025-09-05 17:34:08,064 | INFO | main | Train test split done succefully
+2025-09-05 17:34:08,064 | INFO | main | Standardization started
+2025-09-05 17:34:08,070 | INFO | standard_data | Standardization has been succesfully done
+2025-09-05 17:34:08,070 | INFO | main | Standardization has been succesfully done
+2025-09-05 17:34:08,070 | INFO | train_data | model training has bee started
+2025-09-05 17:34:08,171 | INFO | train_data | Logistic_Regression - CV Accuracy: 1.0000 (+/- 0.0000)
+2025-09-05 17:34:08,171 | INFO | train_data | 
+\u2705 Best Model based on CV: Logistic_Regression with Accuracy = 1.0000
+2025-09-05 17:34:08,185 | INFO | main | Best model has beeb selected
+2025-09-05 17:34:08,185 | INFO | main | Hyperparameter tunning started
+2025-09-05 17:34:10,089 | INFO | hyperparameter_tunning | Best Parameters: {'C': 0.01, 'penalty': 'l2', 'solver': 'liblinear'}
+2025-09-05 17:34:10,089 | INFO | hyperparameter_tunning | Best CV Score: 1.0000
+2025-09-05 17:34:10,092 | INFO | hyperparameter_tunning | Accuracy: 1.0000
+2025-09-05 17:34:10,096 | INFO | hyperparameter_tunning | F1 Score (macro): 1.0000
+2025-09-05 17:34:10,104 | INFO | hyperparameter_tunning | Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       295
+           1       1.00      1.00      1.00      2139
+           2       1.00      1.00      1.00       566
+
+    accuracy                           1.00      3000
+   macro avg       1.00      1.00      1.00      3000
+weighted avg       1.00      1.00      1.00      3000
+
+2025-09-05 17:34:10,116 | INFO | hyperparameter_tunning | Best model has been saved
+2025-09-05 17:34:10,116 | INFO | main | Hyperparameter tunning is done and model saved
+2025-09-05 17:38:55,910 | INFO | predict | User data predicttion has started
+2025-09-05 17:38:55,923 | INFO | predict | Prediction has been done
+2025-09-05 17:56:42,600 | INFO | predict | User data predicttion has started
+2025-09-05 17:56:42,605 | INFO | predict | Prediction has been done
+2025-09-05 17:58:06,791 | INFO | predict | User data predicttion has started
+2025-09-05 17:58:06,797 | INFO | predict | Prediction has been done
+2025-09-05 18:03:30,605 | INFO | predict | User data predicttion has started
+2025-09-05 18:03:30,611 | INFO | predict | Prediction has been done
+2025-09-05 18:03:49,045 | INFO | predict | User data predicttion has started
+2025-09-05 18:03:49,050 | INFO | predict | Prediction has been done
+2025-09-05 18:04:03,665 | INFO | predict | User data predicttion has started
+2025-09-05 18:04:03,669 | INFO | predict | Prediction has been done

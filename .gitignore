@@ -1,0 +1,4 @@
+venv
+data/raw/Stress_Level_Prediction
+data/processed/processed.csv
+notebooks/EDA.ipynb
